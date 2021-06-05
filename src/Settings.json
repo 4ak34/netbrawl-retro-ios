@@ -2,7 +2,7 @@
 	"Address": "0.0.0.0",
 	"Port": 9339,
 
-	"StartingGold": 999999,
-	"StartingElixir": 999999,
-	"StartingGems": 999999
+	"StartingGold": 0,
+	"StartingElixir": 0,
+	"StartingGems": 0
 }
